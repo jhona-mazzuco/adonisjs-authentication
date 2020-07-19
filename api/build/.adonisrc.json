@@ -1,5 +1,5 @@
 {
-  "typescript": true,
+  "typescript": false,
   "commands": [
     "./commands",
     "@adonisjs/core/build/commands",
@@ -24,5 +24,6 @@
   "metaFiles": [
     ".env",
     ".adonisrc.json"
-  ]
+  ],
+  "lastCompiledAt": "2020-07-19T18:09:40.252Z"
 }
